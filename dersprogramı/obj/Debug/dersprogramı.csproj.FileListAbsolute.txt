@@ -1,0 +1,32 @@
+C:\Users\tatma\documents\visual studio 2015\Projects\dersprogramı\dersprogramı\bin\Debug\dersprogramı.exe
+C:\Users\tatma\documents\visual studio 2015\Projects\dersprogramı\dersprogramı\bin\Debug\MetroFramework.dll
+C:\Users\tatma\documents\visual studio 2015\Projects\dersprogramı\dersprogramı\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\tatma\documents\visual studio 2015\Projects\dersprogramı\dersprogramı\bin\Debug\dersprogramı.exe.config
+C:\Users\tatma\documents\visual studio 2015\Projects\dersprogramı\dersprogramı\obj\Debug\dersprogramı.csprojResolveAssemblyReference.cache
+C:\Users\tatma\documents\visual studio 2015\Projects\dersprogramı\dersprogramı\obj\Debug\dersprogramı.Form1.resources
+C:\Users\tatma\documents\visual studio 2015\Projects\dersprogramı\dersprogramı\obj\Debug\dersprogramı.Form2.resources
+C:\Users\tatma\documents\visual studio 2015\Projects\dersprogramı\dersprogramı\obj\Debug\dersprogramı.Form3.resources
+C:\Users\tatma\documents\visual studio 2015\Projects\dersprogramı\dersprogramı\obj\Debug\dersprogramı.Properties.Resources.resources
+C:\Users\tatma\documents\visual studio 2015\Projects\dersprogramı\dersprogramı\obj\Debug\dersprogramı.csproj.GenerateResource.Cache
+C:\Users\tatma\documents\visual studio 2015\Projects\dersprogramı\dersprogramı\bin\Debug\dersprogramı.pdb
+C:\Users\tatma\documents\visual studio 2015\Projects\dersprogramı\dersprogramı\bin\Debug\MetroFramework.Design.dll
+C:\Users\tatma\documents\visual studio 2015\Projects\dersprogramı\dersprogramı\obj\Debug\dersprogramı.exe
+C:\Users\tatma\documents\visual studio 2015\Projects\dersprogramı\dersprogramı\obj\Debug\dersprogramı.pdb
+C:\Users\tatma\documents\visual studio 2015\Projects\dersprogramı\dersprogramı\obj\Debug\dersprogramı.Form4.resources
+C:\BASRİpc\ismailhocanınsitesi\PROJE\dersprogramı\dersprogramı\bin\Debug\dersprogramı.exe.config
+C:\BASRİpc\ismailhocanınsitesi\PROJE\dersprogramı\dersprogramı\bin\Debug\dersprogramı.exe
+C:\BASRİpc\ismailhocanınsitesi\PROJE\dersprogramı\dersprogramı\bin\Debug\dersprogramı.pdb
+C:\BASRİpc\ismailhocanınsitesi\PROJE\dersprogramı\dersprogramı\bin\Debug\MetroFramework.Design.dll
+C:\BASRİpc\ismailhocanınsitesi\PROJE\dersprogramı\dersprogramı\bin\Debug\MetroFramework.dll
+C:\BASRİpc\ismailhocanınsitesi\PROJE\dersprogramı\dersprogramı\bin\Debug\MetroFramework.Fonts.dll
+C:\BASRİpc\ismailhocanınsitesi\PROJE\dersprogramı\dersprogramı\obj\Debug\dersprogramı.csprojAssemblyReference.cache
+C:\BASRİpc\ismailhocanınsitesi\PROJE\dersprogramı\dersprogramı\obj\Debug\dersprogramı.Form1.resources
+C:\BASRİpc\ismailhocanınsitesi\PROJE\dersprogramı\dersprogramı\obj\Debug\dersprogramı.Form2.resources
+C:\BASRİpc\ismailhocanınsitesi\PROJE\dersprogramı\dersprogramı\obj\Debug\dersprogramı.Form3.resources
+C:\BASRİpc\ismailhocanınsitesi\PROJE\dersprogramı\dersprogramı\obj\Debug\dersprogramı.Form4.resources
+C:\BASRİpc\ismailhocanınsitesi\PROJE\dersprogramı\dersprogramı\obj\Debug\dersprogramı.Properties.Resources.resources
+C:\BASRİpc\ismailhocanınsitesi\PROJE\dersprogramı\dersprogramı\obj\Debug\dersprogramı.csproj.GenerateResource.cache
+C:\BASRİpc\ismailhocanınsitesi\PROJE\dersprogramı\dersprogramı\obj\Debug\dersprogramı.csproj.CoreCompileInputs.cache
+C:\BASRİpc\ismailhocanınsitesi\PROJE\dersprogramı\dersprogramı\obj\Debug\dersprogramı.csproj.CopyComplete
+C:\BASRİpc\ismailhocanınsitesi\PROJE\dersprogramı\dersprogramı\obj\Debug\dersprogramı.exe
+C:\BASRİpc\ismailhocanınsitesi\PROJE\dersprogramı\dersprogramı\obj\Debug\dersprogramı.pdb
